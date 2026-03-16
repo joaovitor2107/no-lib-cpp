@@ -43,5 +43,6 @@ The only goal here is to have fun and learn, both about C++ and about the things
 - [ ] Perceptron
 - [ ] Feedforward network + backprop
 - [ ] Convolutional neural network
+- [ ] Tokenizer
 - [ ] Transformer (self-attention, multi-head attention)
 - [ ] Graph neural network
