@@ -10,11 +10,11 @@ The only goal here is to have fun and learn, both about C++ and about the things
 - [x] Vector
 - [x] Pair
 - [x] Hash Map
+- [ ] String
 - [ ] Hash Function
 - [x] Set
 - [ ] Stack 
 - [ ] Queue
-- [ ] Binary Search Tree
 - [ ] Heap (priority queue)
 - [ ] Sort function (heap + quick + insertion)
 
