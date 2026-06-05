@@ -2,15 +2,13 @@
 
 Implementing things from scratch in C++, starting from simple data structures and working all the way up to transformers and graph neural networks.
 
-The only goal here is to have fun and learn, both about C++ and about the things being implemented.
-
 ## Roadmap
 
 ### Data Structures + Algorithms
 - [x] Vector
 - [x] Pair
 - [x] Hash Map
-- [ ] String
+- [x] String
 - [ ] Hash Function
 - [x] Set
 - [ ] Stack 
