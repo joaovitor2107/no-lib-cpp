@@ -1,6 +1,6 @@
 # From Scratch in cpp
 
-Implementing things from scratch in C++, starting from simple data structures and working all the way up to transformers and graph neural networks.
+Implementing things from scratch in C++, starting from simple data structures and working all the way up to transformers and graph neural networks
 
 ## Roadmap
 
@@ -9,21 +9,16 @@ Implementing things from scratch in C++, starting from simple data structures an
 - [x] Pair
 - [x] Hash Map
 - [x] String
-- [ ] Hash Function
 - [x] Set
-- [ ] Stack 
-- [ ] Queue
-- [ ] Heap (priority queue)
+- [ ] Hash Function
+- [ ] Stack // add a simple pop and you have a stack
+- [ ] Queue // add a insert in vector and you have a queue 
+- [ ] Heap (priority queue) // implement using vector with insert 
 - [ ] Sort function (heap + quick + insertion)
 
 ### Other stuff (idk)
 - [ ] Assert
 - [ ] Random Number Generator
-
-### Linear Algebra
-- [ ] Matrix class
-- [ ] Matrix operations (multiply, transpose, inverse)
-- [ ] Eigenvalue decomposition
 
 ### Math
 - [ ] Exponential
@@ -32,12 +27,15 @@ Implementing things from scratch in C++, starting from simple data structures an
 - [ ] power
 - [ ] hyperbolic tangent
 
+### Linear Algebra
+- [ ] Matrix class
+- [ ] Matrix operations (multiply, transpose, inverse)
+- [ ] Eigenvalue decomposition
+
 ### Machine Learning
+- [ ] Autodiff engine
 - [ ] k-NN
 - [ ] Decision tree
-
-### Neural Networks
-- [ ] Autodiff engine
 - [ ] Perceptron
 - [ ] Feedforward network + backprop
 - [ ] Convolutional neural network

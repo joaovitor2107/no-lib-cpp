@@ -5,6 +5,7 @@
 #include "my_pair.hpp"
 
 template<typename k, typename v>
+// adicionar resizing quando > O(1)
 class my_map {
     private:
         // arbitrary number
@@ -20,6 +21,7 @@ class my_map {
         my_map() : _buckets(num_buckets) { }
 
 
+        // alterar para ser atomico
         v& operator[](const k& key) {
             v* found = find(key);
 
